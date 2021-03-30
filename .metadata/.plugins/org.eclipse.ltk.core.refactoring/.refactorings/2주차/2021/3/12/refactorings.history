@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Io&apos; to &apos;Output&apos;&#x0D;&#x0A;- Original project: &apos;2주차&apos;&#x0D;&#x0A;- Original element: &apos;Io&apos;&#x0D;&#x0A;- Renamed element: &apos;Output&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Io&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Io.java[Io" matchStrategy="1" name="Output" qualified="false" references="true" similarDeclarations="false" stamp="1615783276788" textual="false" version="1.0"/>
+</session>
