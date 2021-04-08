@@ -5,10 +5,8 @@
     <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="Vehicle"/>
     <fullyQualifiedTypeName name="Circle"/>
-    <fullyQualifiedTypeName name="com.sun.org.apache.xalan.internal.xsltc.compiler.sym"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="Controllable"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="marine"/>
     <fullyQualifiedTypeName name="DropShip"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
@@ -18,5 +16,15 @@
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.Queue"/>
     <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="중간고사대비.Phone"/>
+    <fullyQualifiedTypeName name="중간고사대비.Circle"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="중간고사대비.Ball"/>
+    <fullyQualifiedTypeName name="중간고사대비.Student"/>
+    <fullyQualifiedTypeName name="중간고사대비.Person"/>
+    <fullyQualifiedTypeName name="중간고사대비.Vehicle"/>
+    <fullyQualifiedTypeName name="중간고사대비.Shape"/>
+    <fullyQualifiedTypeName name="중간고사대비.Square"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xalan.internal.xsltc.compiler.sym"/>
 </qualifiedTypeNameHistroy>
