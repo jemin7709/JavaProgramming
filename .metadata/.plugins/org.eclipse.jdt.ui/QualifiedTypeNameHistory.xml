@@ -4,7 +4,6 @@
     <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="Vehicle"/>
     <fullyQualifiedTypeName name="Circle"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="Controllable"/>
     <fullyQualifiedTypeName name="marine"/>
     <fullyQualifiedTypeName name="DropShip"/>
@@ -27,4 +26,11 @@
     <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="Explore"/>
+    <fullyQualifiedTypeName name="java.nio.channels.ServerSocketChannel"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="MyRunnable"/>
 </qualifiedTypeNameHistroy>
