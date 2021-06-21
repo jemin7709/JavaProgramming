@@ -1,19 +1,31 @@
-package Áß°£°í»ç´ëºñ;
+package ì¤‘ê°„ê³ ì‚¬ëŒ€ë¹„;
 
-import java.util.Scanner;
+class MT extends Thread{
+	public void run() {
+		System.out.println("hi");
+		System.out.println("hi");
+		System.out.println("hi");
+		System.out.println("hi");
+		System.out.println("hi");
+		System.out.println("hi");
+		System.out.println("hi");
+		
+	}
+}
 
 public class Test {
-
+	interface func{
+		public abstract int plus(int a,int b);
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Scanner sc = new Scanner(System.in);
-		int num = sc.nextInt();
-		for(int i=1;i<=num;i++) {
-			for(int j=1;j<=i;j++) {
-				System.out.print('*');
-			}
-			System.out.println();
-		}
+		func f = (int a,int b)->{return a+b;};
+		System.out.println(f.plus(5, 10));
+		new Thread(()->{
+			
+		}).start();
+		MT thread = new MT();
+		thread.start();
 	}
 
 }
